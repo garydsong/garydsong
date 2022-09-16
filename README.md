@@ -1,4 +1,4 @@
-# Hi there 👋
+# Lil Egg 🥚 Big Dreams 🌌💫✨
 
 ## Languages and Tools:
 

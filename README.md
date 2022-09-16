@@ -1,4 +1,4 @@
-# Lil Egg 🥚 Big Dreams 🌌💫✨
+# Lil Egg 🥚 Infinite Dreams 🌌💫✨
 
 ## Languages and Tools:
 

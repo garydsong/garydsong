@@ -8,4 +8,4 @@
 
 [![My Skills3](https://skillicons.dev/icons?i=ps,postgres,py,react,redux,sqlite)](https://skillicons.dev)
 
-[![My Skills4](https://skillicons.dev/icons?i=express,nodejs,vscode,nginx,svg,mysql,xd)](https://skillicons.dev)
+[![My Skills4](https://skillicons.dev/icons?i=express,nodejs,vscode,nginx,svg,mysql)](https://skillicons.dev)

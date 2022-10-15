@@ -4,11 +4,10 @@
 
 <div align="left">
 
-            <span>[![My Skills](https://skillicons.dev/icons?i=ableton,ae,au,aws,css,docker)](https://skillicons.dev)</span>
-            <span>[![My Skills2](https://skillicons.dev/icons?i=flask,git,heroku,html,ai,js)](https://skillicons.dev)</span>
-            <span>[![My Skills3](https://skillicons.dev/icons?i=ps,postgres,py,react,redux,sqlite)](https://skillicons.dev)</span>
-            <span>[![My Skills4](https://skillicons.dev/icons?i=express,nodejs,vscode,nginx,svg,mysql)](https://skillicons.dev)</span>
-
+<br>[![My Skills](https://skillicons.dev/icons?i=ableton,ae,au,aws,css,docker)](https://skillicons.dev)</br>
+<br>[![My Skills2](https://skillicons.dev/icons?i=flask,git,heroku,html,ai,js)](https://skillicons.dev)</br>
+<br>[![My Skills3](https://skillicons.dev/icons?i=ps,postgres,py,react,redux,sqlite)](https://skillicons.dev)</br>
+<br>[![My Skills4](https://skillicons.dev/icons?i=express,nodejs,vscode,nginx,svg,mysql)](https://skillicons.dev)</br>
             
 </div>
 

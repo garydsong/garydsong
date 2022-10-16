@@ -7,11 +7,11 @@
 <div>
 <div align="right">
   
-[![My Skills](https://skillicons.dev/icons?i=ableton,ae,au,aws,css,docker)](https://skillicons.dev)
-[![My Skills2](https://skillicons.dev/icons?i=flask,git,heroku,html,ai,js)](https://skillicons.dev)
-[![My Skills3](https://skillicons.dev/icons?i=ps,postgres,py,react,redux,sqlite)](https://skillicons.dev)
-[![My Skills4](https://skillicons.dev/icons?i=express,nodejs,vscode,nginx,svg,mysql)](https://skillicons.dev)
-[![My Skills4](https://skillicons.dev/icons?i=gcp,github,regex,xd,emacs,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,ae,au,aws,css,docker)](https://gary-song.com)
+[![My Skills2](https://skillicons.dev/icons?i=flask,git,heroku,html,ai,js)](https://gary-song.com)
+[![My Skills3](https://skillicons.dev/icons?i=ps,postgres,py,react,redux,sqlite)](https://gary-song.com)
+[![My Skills4](https://skillicons.dev/icons?i=express,nodejs,vscode,nginx,svg,mysql)](https://gary-song.com)
+[![My Skills4](https://skillicons.dev/icons?i=gcp,github,regex,xd,emacs,jquery)](https://gary-song.com)
   
 </div>
 </div>
